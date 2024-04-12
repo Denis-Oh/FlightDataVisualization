@@ -1,4 +1,5 @@
 # Fight Data Visualization
+Denis Oh
 
 ## Description
 
